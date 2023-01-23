@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Atul Bhatia. I am a student and learning Web Development. I have ineterst in Graphic Design and animation. 
+In past I have worked on Corel Draw, Photoshop. Present I am looking some resources to learn some creative activities. Also  I am looking some project to start during my studies to elevate my skills. More I like sports : football, cricket also I like travel. 
+
 <!--
 **Atuluc/Atuluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
